@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billatgameology
 - 👀 I’m interested in making games, playing games, 3D printing, AR/VR, art projects of various kinds. 
 - 🌱 I’m currently learning Spark AR, Unity, Lightship, ios and android app development. 
-- 💞️ I’m looking to collaborate on ... I don't have skills yet. Maybe after I finish some courses in August. 
+- 💞️ I’m looking to collaborate on ... I don't have skills yet. Maybe after I finish some courses. 
 - 📫 How to reach me: bill@gameology.space
 
 <!---
