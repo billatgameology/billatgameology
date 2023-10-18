@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @billatgameology
 - 👀 Gameology Space builds XR experiences. 
-- 🌱 I’m currently learning Unity, Niantic Lightship and Oculus. 
-- 💞️ I’m looking to collaborate on AR game designs: escape room style puzzles in the real world.  
+- 🌱 I’m currently building with Unity, Niantic Lightship, Meta Quest and a bit of AI.  
 - 📫 How to reach me: bill@gameology.space
 
 <!---
